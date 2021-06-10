@@ -1,0 +1,31 @@
+ .tableContainer{
+   padding: 10% 5%;
+}
+
+ .tableBody{
+    width: 90vw;
+}
+
+.tableRow2{
+    width: 45vw;
+    
+}
+
+.tableHead{
+    width: 90vw;
+}
+
+.tableRow{
+    text-align: center !important;
+    width: 80vw;
+    background-color: rgb(0, 255, 191) !important;
+}
+
+.tableTitle{
+    width: 45vw;
+} 
+
+.content{
+    display: flex;
+    width: 90vw;
+}
